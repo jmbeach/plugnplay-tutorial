@@ -1,0 +1,7 @@
+poller:
+  activePlugin: disk
+  disk:
+    manifesto: './manifesto.json'
+  sqs:
+    key: '1234'
+    secret: 'not in the repo!'

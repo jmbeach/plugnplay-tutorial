@@ -1,0 +1,4 @@
+id: sqs
+name: SQS
+description: Add messages from SQS.
+loader: FromSqsLoader.js

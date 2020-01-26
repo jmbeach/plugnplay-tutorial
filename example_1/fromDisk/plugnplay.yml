@@ -1,0 +1,4 @@
+id: disk
+name: Disk
+description: Add messages from disk
+loader: FromDiskLoader.js
